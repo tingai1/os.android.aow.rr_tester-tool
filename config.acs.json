@@ -1,0 +1,11 @@
+{
+  "Windows_mode": true,
+  "aow_path": "D:\\Program Files\\Tencent\\Androws\\Application\\1.0.1551.0\\Androws.exe",
+  "su_cmd": "txperm 0 ",
+  "apk_folder": "apk",
+  "record_path": "records",
+  "b_integrated_with_acs": true,
+  "replay_pass_threshold": 0.8,
+  "this is comment: scan_phone: HVA0763H":  false,
+  "this is comment: su_cmd_scan_phone: su -c ": false
+}

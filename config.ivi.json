@@ -1,0 +1,23 @@
+{
+  "event_channel_record_touch": "event4",
+  "event_channel_replay_touch": "event4",
+  "event_channel_record_keyboard": "event1",
+  "event_channel_replay_keyboard": "event1",
+  "record_max_35": 16383,
+  "record_max_36": 9599,
+  "replay_max_35": 16383,
+  "replay_max_36": 9599,
+  "Windows_mode": true,
+  "user_id": "10",
+  "apk_folder": "apk",
+  "scan_phone": "192.168.10.43",
+  "su_cmd": "",
+  "su_cmd_scan_phone": " su -c ",
+  "scan_apps": {
+    "w": "com.tencent.mm",
+    "q": "com.tencent.mobileqq",
+    "d": "",
+    "g": ""
+  },
+  "sms_phone_adb_device_name": "c6247a"
+}
