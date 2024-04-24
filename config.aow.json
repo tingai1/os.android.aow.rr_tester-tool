@@ -1,0 +1,14 @@
+{
+  "Windows_mode": true,
+  "aow_path": "D:\\Program Files\\Tencent\\Androws\\Application\\2.0.2449.0",
+  "su_cmd": "txperm 0 ",
+  "apk_folder": "apk",
+  "record_path": "records",
+  "scan_phone": "HVA0763H",
+  "su_cmd_scan_phone": "su -c ",
+  "scan_apps": {
+    "w": "com.tencent.mm",
+    "q": "com.tencent.mobileqq"
+  },
+  "focused_display_id": "2"
+}
